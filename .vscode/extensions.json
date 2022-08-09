@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "Slint.slint"
+        "slint.slint",
+        "blackgirlbytes.deploy-to-github-pages"
     ]
 }
